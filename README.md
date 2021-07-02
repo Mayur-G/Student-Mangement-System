@@ -8,3 +8,5 @@ http://localhost:8080/students
 
 
 http://localhost:8080/students/new
+![image](https://user-images.githubusercontent.com/66901391/124233674-b36b5100-db30-11eb-98bf-acab3edcaae8.png)
+
