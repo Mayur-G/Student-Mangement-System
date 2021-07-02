@@ -11,3 +11,4 @@ This is SpringBoot with Spring Data Jpa, MySQL and Thymeleaf.
 * We can create new Student
 ![image](https://user-images.githubusercontent.com/66901391/124233674-b36b5100-db30-11eb-98bf-acab3edcaae8.png)
 
+![image](https://user-images.githubusercontent.com/66901391/124235002-5f616c00-db32-11eb-9e82-5980a64435d4.png)
